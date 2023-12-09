@@ -1,0 +1,13 @@
+Source Program:
+var f, n;
+procedure fact;
+var ans1;
+begin
+end;
+begin
+ fact;
+write f
+end.
+
+
+only variable values may be altered
