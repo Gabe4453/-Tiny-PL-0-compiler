@@ -1,8 +1,0 @@
-/* Error number 29, procedure expected*/
-
-var f, n;
-begin
-n:=3;
-call fact;
-write f
-end.
