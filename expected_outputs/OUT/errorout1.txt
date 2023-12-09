@@ -1,0 +1,8 @@
+var f, n;
+begin
+n:=3;
+call fact;
+write f
+end.
+
+Error number 29, procedure expected
